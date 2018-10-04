@@ -1,0 +1,19 @@
+{
+  "name": "oldbitquery2",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "iconv-lite": "^0.4.24",
+    "mongodb": "^3.1.4",
+    "traverse": "^0.6.6"
+  }
+}
